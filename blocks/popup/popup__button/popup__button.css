@@ -1,0 +1,15 @@
+@import url(./popup__button_icon.css);
+@import url(./popup__button_text.css);
+@import url(./popup__button_enabled.css);
+@import url(./popup__button_disabled.css);
+
+.popup__button {
+  width: 100%;
+  height: 50px;
+  
+  margin-top: 48px;
+  
+  
+}
+
+
