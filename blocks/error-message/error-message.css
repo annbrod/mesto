@@ -1,0 +1,25 @@
+.error-message {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #FF0000;
+
+    margin-top: -20px;
+
+}
+
+.error-message:last-of-type {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #FF0000;
+
+    margin-top: 4px;
+
+}
