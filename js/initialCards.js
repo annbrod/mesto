@@ -50,9 +50,4 @@ const initialCards = [
         "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/vladivostok.jpg"
     }
   ];
-
-  initialCards.forEach(function addCard(item) {
-    const placeCard = createCard(item.name, item.link);
-    placesList.appendChild(placeCard);
-  });
   
