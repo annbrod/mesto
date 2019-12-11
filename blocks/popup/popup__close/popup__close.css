@@ -1,3 +1,5 @@
+@import url(./popup__close_type_edit.css);
+
 .popup__close {
   width: 26px;
   position: absolute;
@@ -5,5 +7,6 @@
   right: -26px;
   cursor: pointer;
 }
+
 
 
